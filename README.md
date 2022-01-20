@@ -17,6 +17,10 @@ for git training demos.
 This is a simple website, can be deployed on any server or even
 local file system.
 
+## How to contribute
+
+Please fork the repo and then issue PR for the review.
+
 ### Copyright
 
 Copyright by Gin
