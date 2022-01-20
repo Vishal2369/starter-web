@@ -19,4 +19,4 @@ local file system.
 
 ### Copyright
 
-Copyright by Aladin
+Copyright by Gin
