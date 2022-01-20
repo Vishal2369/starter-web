@@ -16,3 +16,7 @@ for git training demos.
 
 This is a simple website, can be deployed on any server or even
 local file system.
+
+### Copyright
+
+Copyright by Aladin
