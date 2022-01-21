@@ -5,7 +5,8 @@ This repository is for showing how Git and GitHub work
 ## Introduction
 
 This is example to show difference parts of git ripository
-and various git commands using a web projects.
+and various git commands using a web projects. Addind some text for
+rebasing example.
 
 ## Purpose
 
