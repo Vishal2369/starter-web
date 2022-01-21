@@ -7,7 +7,7 @@
 
 # THANKS
 
-    Kagura
+    Kagura, Hanabi
 
 # TECHNOLOGY COLOPHON
 
