@@ -5,8 +5,7 @@ This repository is for showing how Git and GitHub work
 ## Introduction
 
 This is example to show difference parts of git ripository
-and various git commands using a web projects. Addind some text for
-rebasing example.
+and various git commands using a web projects.
 
 ## Purpose
 
@@ -24,4 +23,4 @@ Please fork the repo and then issue PR for the review.
 
 ### Copyright
 
-Copyright by Gin
+Copyright by Gin. All rights reserved.
